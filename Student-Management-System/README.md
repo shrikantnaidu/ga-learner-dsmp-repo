@@ -4,9 +4,9 @@
 
 You have been hired by the University of Data Science to manage their students' records. Your job is to create the student management system for the university. Let's try to build the system using basic Python operations.
 
-**Why solve this project?**
+**Learnings from the project**
 
-After completing this project, you will get to know how to solve basic Python problems. In this project, you will be applying the following concepts:
+After completing this project, I got a grasp on how to solve basic Python problems. Also it lead to clarity on concepts like
 
 1. Mathematical operations
 2. List operations
