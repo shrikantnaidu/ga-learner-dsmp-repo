@@ -10,3 +10,11 @@ After completing this project, you will get to know how to solve basic Python pr
 2. List operations
 3. Dictionary operations
 4. String indexing and formatting
+
+**Approach taken to solve the problem**
+
+On basis of the outline provided , I took a step by step approach and carefully looked and exceuted all possibilites .This helped me eliminate all confusions with different outcomes and also gave me a thorough knowledge of minute details which can be overlooked in just studying and/or reading.
+
+**Challenges faced**
+
+Basics like parenthesis use , syntax , call errors where faced and for the same I referred to the Python Manual and websites hosting such content.
