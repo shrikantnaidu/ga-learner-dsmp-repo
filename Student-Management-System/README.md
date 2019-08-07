@@ -6,7 +6,7 @@ You have been hired by the University of Data Science to manage their students' 
 
 After completing this project, you will get to know how to solve basic Python problems. In this project, you will be applying the following concepts:
 
--Mathematical operations
--List operations
--Dictionary operations
--String indexing and formatting
+*Mathematical operations
+*List operations
+*Dictionary operations
+*String indexing and formatting
