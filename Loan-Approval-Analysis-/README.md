@@ -11,7 +11,9 @@ In the project I applied the following concepts.
 3. Pivot table operations 
 
 **Approach taken to solve the problem**
+
 After going through the problem statement or required analysis , I came across solutions and according to the mindmapped solution ,read the pandas documentation for respective functions I required.
 
 **Challenges faced**
+
 Various challenges relating to syntax and their parameter semantics were overcome through use of documentation and lots of reading thorugh various websites.
