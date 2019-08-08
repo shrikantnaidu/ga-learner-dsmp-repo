@@ -1,6 +1,7 @@
 # Project Overview
 
 **Problem Statement**
+
 A particular housing company specializes in home loans across different market segments - rural, urban and semi-urban. Their loan eligibility process is naturally, based on customer details provided while filling an online application form. To create a targeted marketing campaign for different segments, they have asked for a comprehensive analysis of the data collected so far , with specific details contained within.
 
 **Learnings from the project**
