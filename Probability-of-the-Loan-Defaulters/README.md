@@ -9,7 +9,7 @@ What is the probability that the borrower paid back their loan in full?
 
 **Learnings from the Project**
 
-After completing this project, you will have a better understanding of probability. In this project, you will apply the following concepts.
+After completing this project, I have a better understanding of probability. In this project,the following concepts were applied.
 
 1. Independency check
 2. Bayes theorem
