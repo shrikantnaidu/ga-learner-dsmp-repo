@@ -6,7 +6,7 @@ Bank Of New York wants to expand its branches and for that it has certain hypoth
 
 **Learnings from the project**
 
-After completing this project, you will have a better understanding of how to use inferential statistics. In this project, you will apply the following concepts:
+After completing this project, I have a better understanding of how to use inferential statistics. In this project, I applied the following concepts:
 
 1. Confidence Interval
 2. Central Limit Theorem
