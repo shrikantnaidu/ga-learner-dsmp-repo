@@ -6,7 +6,7 @@ The rise of superheroes and supervillains is at an all time high. The 'Academy o
 
 **Learnings from the project**
 
-After completing this project, you will have a better grip on the applications of descriptive statistics. In this project, you will be applying the following concepts:
+After completing this project, I have a better grip on the applications of descriptive statistics. In this project,I applied the following concepts:
 
 1. Bar plotting
 2. Boxplot plotting
